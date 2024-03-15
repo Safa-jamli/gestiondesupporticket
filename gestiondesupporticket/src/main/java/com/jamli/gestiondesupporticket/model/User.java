@@ -21,7 +21,7 @@ public class User implements UserDetails {
  private Integer id;
  private String firstname;
  private String lastname;
- private String emails;
+ private String email;
  private String password;
  private boolean mfaEnabled;
  private String secret;
